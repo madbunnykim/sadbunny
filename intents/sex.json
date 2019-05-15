@@ -1,0 +1,28 @@
+{
+  "id": "9a86f949-00ab-43d1-a171-f49f8bd48f8b",
+  "name": "sex",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540217778,
+  "fallbackIntent": false,
+  "events": []
+}

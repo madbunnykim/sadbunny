@@ -1,0 +1,28 @@
+{
+  "id": "9d383151-3790-4714-80a0-8205e37686d4",
+  "name": "suggestion 2 exclusive",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540219792,
+  "fallbackIntent": false,
+  "events": []
+}

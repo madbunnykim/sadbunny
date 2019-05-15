@@ -1,0 +1,43 @@
+{
+  "id": "1556b0f8-4d93-48ab-b744-1f7a3d8b58d9",
+  "name": "suggestion 1 casual",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d3aa4558-ede9-41f0-a1e4-1cbc605937d3",
+          "dataType": "@men",
+          "name": "men",
+          "value": "$men",
+          "isList": false
+        },
+        {
+          "id": "9b1d7448-30ea-405c-800b-2ada165c26b2",
+          "dataType": "@men",
+          "name": "men1",
+          "value": "$men1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540219616,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "79c071f5-11f3-4b08-957b-592bb2b7f7d2",
+  "name": "dating_apps",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,95 @@
+[
+  {
+    "id": "3a690f8f-c01f-463e-98a5-fe7cad1b1592",
+    "data": [
+      {
+        "text": "ask to be exclusive instead",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540219792
+  },
+  {
+    "id": "15190319-c2a7-4725-af94-f3661e4a3621",
+    "data": [
+      {
+        "text": "casual but exclusive is fine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540219792
+  },
+  {
+    "id": "6e87987d-7f52-4c2c-b4a5-e0eaa585ad53",
+    "data": [
+      {
+        "text": "casual but exclusive is okay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540219792
+  },
+  {
+    "id": "ed554e3f-8387-4f21-9e2a-c403cf382451",
+    "data": [
+      {
+        "text": " Being exclusive is the ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " step of working towards a relationship",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540219792
+  },
+  {
+    "id": "7f4349c5-e2f0-4a30-abb8-fff3cd53df24",
+    "data": [
+      {
+        "text": "ask to be exclusive at least",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540219792
+  },
+  {
+    "id": "ef239827-b97e-4249-a9c8-12e0283c0dc7",
+    "data": [
+      {
+        "text": "exclusive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540219792
+  },
+  {
+    "id": "0d26a8ea-1e61-4edc-907d-2e91436ce44b",
+    "data": [
+      {
+        "text": "Maybe just ask to be exclusive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1540219792
+  }
+]

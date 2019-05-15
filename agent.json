@@ -1,0 +1,76 @@
+{
+  "description": "",
+  "language": "en",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "project": "fortune-teller-3bdfb",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [
+      {
+        "intentId": "9ad71ef6-12cc-4cc1-b1bc-ddbb705a12e1",
+        "signInRequired": false
+      },
+      {
+        "intentId": "133a8366-8c59-463d-a929-3624e3544fa5",
+        "signInRequired": false
+      },
+      {
+        "intentId": "1556b0f8-4d93-48ab-b744-1f7a3d8b58d9",
+        "signInRequired": false
+      },
+      {
+        "intentId": "9d383151-3790-4714-80a0-8205e37686d4",
+        "signInRequired": false
+      },
+      {
+        "intentId": "c2d5b366-aea8-488e-8369-1211100bf609",
+        "signInRequired": false
+      },
+      {
+        "intentId": "9a86f949-00ab-43d1-a171-f49f8bd48f8b",
+        "signInRequired": false
+      },
+      {
+        "intentId": "635c9143-378a-4b0f-bfef-740d3654d538",
+        "signInRequired": false
+      },
+      {
+        "intentId": "426780ec-9bbb-4852-8dce-d385746bd844",
+        "signInRequired": false
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": true,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "America/Barbados",
+  "webhook": {
+    "url": "https://us-central1-fortune-teller-3bdfb.cloudfunctions.net/fortunteller",
+    "headers": {
+      "": ""
+    },
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v2",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false
+}

@@ -1,0 +1,28 @@
+{
+  "id": "133a8366-8c59-463d-a929-3624e3544fa5",
+  "name": "suggestion 3 no",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540219937,
+  "fallbackIntent": false,
+  "events": []
+}
